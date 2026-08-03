@@ -1,6 +1,8 @@
 # Telco Customer Churn: Behavioral Segmentation & Retention Strategy
 
-**Role:** Lead Data Analyst
+**Analyst:** Shawn Canty
+
+**Date:** July 2026
 
 ## 1. Business Problem & Context
 
