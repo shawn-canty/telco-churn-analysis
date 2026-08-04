@@ -31,6 +31,7 @@ To identify the behavioral trends, service combinations, and account characteris
 ### Strategic Recommendation
 
 Target the retention budget exclusively at the high-risk month-to-month segment.
+
 **Action:** Offer customers a feature bundle including Free Tech Support and Online Security to encourage switching to 1- or 2-Year contracts. Customers must sign up for Auto-Pay to get this offer. This campaign reduces contract risk, increases customer retention, and removes payment issues that cause most cancellations.
 
 ### Key Findings
