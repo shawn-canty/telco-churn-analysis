@@ -51,5 +51,4 @@ Target the retention budget exclusively at the high-risk month-to-month segment.
 
 ## Deliverables
 - [Interactive Excel Dashboard](telco_churn_dashboard_interactive.xlsx)
-- [One-Page Executive Summary (PDF)](telco-churn_exec_summary.pdf)
 - [Raw Dataset](Telco_churn_raw_data.xlsx)
