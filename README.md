@@ -46,3 +46,10 @@ Target the retention budget exclusively at the high-risk month-to-month segment.
   * **Billing Type:** Customers who pay by electronic check have a churn rate of 58.4%.
   * **Internet Type:** Customers using fiber optic service have a churn rate of 57.5%.
   * **No Online Security:** Customers without the Online Security add-on have a 54.7% churn rate.
+
+---
+
+## Deliverables
+- [Interactive Excel Dashboard](telco_churn_dashboard_interactive.xlsx)
+- [One-Page Executive Summary (PDF)](telco-churn_exec_summary.pdf)
+- [Raw Dataset](Telco_churn_raw_data.xlsx)
