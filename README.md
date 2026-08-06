@@ -4,6 +4,8 @@
 
 **Date:** July 2026
 
+<img width="1038" height="423" alt="telco_dashboard_static" src="https://github.com/user-attachments/assets/5a9f911d-ac60-488c-a9a5-f82705daff0c" />
+
 ## 1. Business Problem & Context
 
 Facing a spike in month-to-month subscription cancellations, the marketing team needs data-driven guidance to optimize a limited retention budget. They require clarity on which customer segments to target and which retention offers (e.g., tech support, discounts) will effectively alter behavior.
